@@ -1,3 +1,3 @@
 # Sort Algorithms
 
-Slow and optimal sort algorithms implementation
+Slow and optimal sort algorithms implementation 
