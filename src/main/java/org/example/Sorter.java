@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.List;
+
 public interface Sorter {
-    int[] sort(int[] arr);
+    List<Integer> sort(List<Integer> arr);
 }
